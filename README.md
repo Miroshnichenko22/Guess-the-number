@@ -1,2 +1,14 @@
-# Guess-the-number
-Game "Guess the number"
+
+### Квиз 'Угадай число' / 'Guess-the-number'
+
+---
+
+### Стек / Stack: 
+
+* HTML
+* CSS
+* Javascript 
+
+---
+
+### Пожалуйста, оставьте звездочку / star, если зашли в гости, мне будет приятно ) ★
