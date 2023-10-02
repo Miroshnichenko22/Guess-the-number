@@ -1,16 +1,11 @@
+## Quiz 'Guess the number'
 
-### Квиз 'Угадай число' / 'Guess-the-number'
-
-[Посмотрите сами](https://juliadooby.github.io/Guess-the-number/)
-
+[demo](https://juliadooby.github.io/Guess-the-number/)
 ---
 
-### Стек / Stack: 
+### Stack: 
 
 * HTML
 * CSS
 * Javascript 
-
 ---
-
-## Не забудьте поставить звездочку ! ! ! ★ 
