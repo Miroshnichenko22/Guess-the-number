@@ -5,7 +5,7 @@
 [demo](https://juliadooby.github.io/Guess-the-number/)
 ---
 
-### Stack: 
+### Technologies Used:
 
 * HTML
 * CSS
