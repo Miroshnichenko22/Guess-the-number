@@ -4,9 +4,10 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<a href="https://juliadooby.github.io/Guess-the-number/"><strong>➥Demo</strong></a>
+  
 <div align="center"><img src="https://github.com/juliaDooby/Guess-the-number/blob/main/QuizShot.JPG" width="100%" height="20%"></img></div>
 
-[demo](https://juliadooby.github.io/Guess-the-number/)
 ---
 
 ### Technologies Used:
